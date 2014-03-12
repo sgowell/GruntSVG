@@ -1,0 +1,11 @@
+{
+    "name": "GruntSVG",
+    "description": "",
+    "repository": "",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "~0.4.3",
+        "grunt-contrib-watch": "~0.6.0",
+        "grunt-grunticon":"~1.0.0"
+      }
+}
